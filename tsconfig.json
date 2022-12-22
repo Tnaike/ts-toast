@@ -26,7 +26,5 @@
       "@/components/*": ["*", "src/components/*"]
     }
   },
-  "include": [
-    "src"
-  ]
+ "include": ["src", "tailwind.config.js"]
 }
