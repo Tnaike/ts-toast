@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Ts-Toast
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and reusable toast notification component for TypeScript React.
 
 ## Available Scripts
 
